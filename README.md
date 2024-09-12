@@ -2,7 +2,7 @@
 
 👋 ¡Hola, soy Andres Menjura!
 
-🚀 Soy un apasionado desarrollador Fullstack en el ecosistema MERN (MongoDB, Express, React y Node.js) y un entusiasta de la Ciencia de Datos con sede en la hermosa Bogotá, Colombia.
+🚀 Soy un desarrollador Fullstack en el ecosistema MERN (MongoDB, Express, React y Node.js) y un entusiasta de la Ciencia de Datos con sede en la hermosa Bogotá, Colombia.
 
 💼 Como desarrollador Junior, estoy ansioso por participar en proyectos desafiantes y emocionantes. Creo que cada línea de código escrita es una oportunidad para mejorar y aprender, y estoy emocionado por formar parte de equipos colaborativos y dinámicos que compartan esta visión.
 
